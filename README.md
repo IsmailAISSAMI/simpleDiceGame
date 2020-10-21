@@ -6,4 +6,4 @@
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game  
 
-**Hosted at:** https://aissam99.github.io/simpleDiceGame/
+**Hosted at:** https://ismailaissami.github.io/simpleDiceGame/
